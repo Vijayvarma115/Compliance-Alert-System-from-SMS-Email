@@ -1,6 +1,14 @@
+# Problem Statement
+
+Businesses often miss compliance-related actions (like tax filings, returns, etc.) due to unnoticed email or SMS notifications. This leads to penalties and late fees.
+
+# Solution 
+
+Built an automation workflow that analyzes emails, detects compliance-related messages using regex, and then sends alerts, creates calendar reminders, and logs them into Notion.
+
 # Automated Communication Workflow using n8n
 
-This project showcases an automated end-to-end communication workflow built using **n8n**, aimed at reducing manual effort in managing incoming emails and scheduling events. It was developed during my internship to streamline notifications and record-keeping across different platforms.
+This project showcases an automated end-to-end communication workflow built using **n8n**, aimed at reducing manual effort in managing incoming emails and scheduling events.
 
 ## 🚀 Features
 
