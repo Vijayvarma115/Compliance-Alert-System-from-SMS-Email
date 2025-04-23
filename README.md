@@ -24,7 +24,7 @@ This project showcases an automated end-to-end communication workflow built usin
 
    # OverView Of n8n Workflow For BETTER Understanding
 
-      ɢᴍᴀɪʟ ɴᴏᴅᴇ: Monitors all upcoming mails.
+      𝗚𝗺𝗮𝗶𝗹 𝗡𝗼𝗱𝗲: Monitors all upcoming mails.
 
       Code Node: Write logic(js)containing compliance-related keywords(eg:Duedate,penalty).
 
