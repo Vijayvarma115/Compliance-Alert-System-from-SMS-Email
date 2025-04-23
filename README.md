@@ -26,19 +26,19 @@ This project showcases an automated end-to-end communication workflow built usin
 
       𝗚𝗺𝗮𝗶𝗹 𝗡𝗼𝗱𝗲: Monitors all upcoming mails.
 
-      Code Node: Write logic(js)containing compliance-related keywords(eg:Duedate,penalty).
+      𝗖𝗼𝗱𝗲 𝗡𝗼𝗱𝗲: Write logic(js)containing compliance-related keywords(eg:Duedate,penalty).
 
-      If Node: Check if compliance-related keywords present if YES --->path1 else path2(useLess).
+      𝗜𝗳 𝗡𝗼𝗱𝗲: Check if compliance-related keywords present if YES --->path1 else path2(useLess).
 
-      Twilio Node: Sends WhatsApp alert using Twilio(AuthSID,token).
+      𝗧𝘄𝗶𝗹𝗶𝗼 𝗡𝗼𝗱𝗲: Sends WhatsApp alert using Twilio(AuthSID,token).
 
-      Code Node: Extracts due date, amount, and penalty from the email(body/subject).
+      𝗖𝗼𝗱𝗲 𝗡𝗼𝗱𝗲: Extracts due date, amount, and penalty from the email(body/subject).
 
-      Google Calendar Node: Creates the event on Calendar accordingly and make event 1day,2day,3day back before DueDate.
+      𝗚𝗼𝗼𝗴𝗹𝗲 𝗖𝗮𝗹𝗲𝗻𝗱𝗮𝗿 𝗡𝗼𝗱𝗲: Creates the event on Calendar accordingly and make event 1day,2day,3day back before DueDate.
 
-      Twilio Node: Makes an Outbound call to the Customer regarding DueDate and Subject.
+      𝗧𝘄𝗶𝗹𝗶𝗼 𝗡𝗼𝗱𝗲: Makes an Outbound call to the Customer regarding DueDate and Subject.
 
-      Notion Node: Logs the compliance data .
+      𝗡𝗼𝘁𝗶𝗼𝗻 𝗡𝗼𝗱𝗲: Logs the compliance data .
 
 
 ## Notion Output
